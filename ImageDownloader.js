@@ -14,9 +14,9 @@
 // @match        https://588ku.com/
 // @homepageURL       https://github.com/taoyuancun123/modifyText/blob/master/modifyText.js
 // @supportURL        https://greasyfork.org/zh-CN/scripts/419894/feedback
-//@updateURL https://greasyfork.org/zh-CN/scripts/419894
-//@downloadURL https://greasyfork.org/zh-CN/scripts/419894
-//@installURL https://greasyfork.org/zh-CN/scripts/419894
+//@updateURL https://github.com/taoyuancun123/userScriptCollections/edit/master/ImageDownloader.js
+//@downloadURL https://github.com/taoyuancun123/userScriptCollections/edit/master/ImageDownloader.js
+//@installURL https://github.com/taoyuancun123/userScriptCollections/edit/master/ImageDownloader.js
 // ==/UserScript==
 
 (function () {
