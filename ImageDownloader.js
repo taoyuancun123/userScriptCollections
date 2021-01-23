@@ -3,7 +3,7 @@
 // @name Image Downloader
 // @namespace       http://tampermonkey.net/
 // @description     可以在绝大多数网站提取并批量下载图片。尤其是类似于千库网这种，不能右键保存图片的网站，提取之后，可以右键保存，或者直接下载所有的图片。其他的淘宝、天猫电商图片批量下载，youtube、B站封面下载，等等都可以的。点击右键-tampermonkey-图片下载器，按这个顺序使用。
-// @version         1.8
+// @version         1.9
 // @author          桃源隐叟
 // @include         *
 // @grant           GM_openInTab
